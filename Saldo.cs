@@ -14,4 +14,9 @@
             Console.WriteLine("Pode não ");
         }
     }
+
+    public double GetSaldo()
+    {
+        return saldo;
+    }
 }

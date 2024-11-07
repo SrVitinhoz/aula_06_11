@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\2023102060030\\Desktop\\POO\\aula_06_11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36DDEEBE-E01C-4DAD-A531-86C23157764A}|aula_06_11.csproj|c:\\users\\2023102060030\\desktop\\poo\\aula_06_11\\saldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36DDEEBE-E01C-4DAD-A531-86C23157764A}|aula_06_11.csproj|solutionrelative:saldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{36DDEEBE-E01C-4DAD-A531-86C23157764A}|aula_06_11.csproj|c:\\users\\2023102060030\\desktop\\poo\\aula_06_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36DDEEBE-E01C-4DAD-A531-86C23157764A}|aula_06_11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DDEEBE-E01C-4DAD-A531-86C23157764A}|aula_06_11.csproj|c:\\users\\2023102060030\\desktop\\poo\\aula_06_11\\saldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DDEEBE-E01C-4DAD-A531-86C23157764A}|aula_06_11.csproj|solutionrelative:saldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Saldo.cs",
               "DocumentMoniker": "C:\\Users\\2023102060030\\Desktop\\POO\\aula_06_11\\Saldo.cs",
               "RelativeDocumentMoniker": "Saldo.cs",
               "ToolTip": "C:\\Users\\2023102060030\\Desktop\\POO\\aula_06_11\\Saldo.cs",
               "RelativeToolTip": "Saldo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T01:43:56.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2023102060030\\Desktop\\POO\\aula_06_11\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
