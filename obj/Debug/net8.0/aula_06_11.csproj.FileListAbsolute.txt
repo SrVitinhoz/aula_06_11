@@ -1,0 +1,14 @@
+C:\Users\2023102060030\Desktop\POO\aula_06_11\bin\Debug\net8.0\aula_06_11.exe
+C:\Users\2023102060030\Desktop\POO\aula_06_11\bin\Debug\net8.0\aula_06_11.deps.json
+C:\Users\2023102060030\Desktop\POO\aula_06_11\bin\Debug\net8.0\aula_06_11.runtimeconfig.json
+C:\Users\2023102060030\Desktop\POO\aula_06_11\bin\Debug\net8.0\aula_06_11.dll
+C:\Users\2023102060030\Desktop\POO\aula_06_11\bin\Debug\net8.0\aula_06_11.pdb
+C:\Users\2023102060030\Desktop\POO\aula_06_11\obj\Debug\net8.0\aula_06_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060030\Desktop\POO\aula_06_11\obj\Debug\net8.0\aula_06_11.AssemblyInfoInputs.cache
+C:\Users\2023102060030\Desktop\POO\aula_06_11\obj\Debug\net8.0\aula_06_11.AssemblyInfo.cs
+C:\Users\2023102060030\Desktop\POO\aula_06_11\obj\Debug\net8.0\aula_06_11.csproj.CoreCompileInputs.cache
+C:\Users\2023102060030\Desktop\POO\aula_06_11\obj\Debug\net8.0\aula_06_11.dll
+C:\Users\2023102060030\Desktop\POO\aula_06_11\obj\Debug\net8.0\refint\aula_06_11.dll
+C:\Users\2023102060030\Desktop\POO\aula_06_11\obj\Debug\net8.0\aula_06_11.pdb
+C:\Users\2023102060030\Desktop\POO\aula_06_11\obj\Debug\net8.0\aula_06_11.genruntimeconfig.cache
+C:\Users\2023102060030\Desktop\POO\aula_06_11\obj\Debug\net8.0\ref\aula_06_11.dll
