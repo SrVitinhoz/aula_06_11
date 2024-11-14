@@ -5,13 +5,21 @@
     public void SetSaldo(double s)
 
     {
-        if (s >= 0)
+        try
         {
-            saldo = s;
+            if (s >= 0)
+            {
+                saldo = s;
+            }
+            else
+            {
+                throw new Exception("O saldo não pode ser negativo"); // cria uma nova execeção
+            }
         }
-        else
+        catch (Exception ex)
         {
-            Console.WriteLine("Pode não ");
+
+            throw new Exception(ex.Message); // executa as execeção 
         }
     }
 
